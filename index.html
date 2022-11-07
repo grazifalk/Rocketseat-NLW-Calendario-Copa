@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@700;900&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+      defer
+    ></script>
+    <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon" />
+    <title>Calendário Copa do Mundo</title>
+  </head>
+
+  <button onclick="topFunction()" id="myBtn" title="Go to top">˄</button>
+
+  <body class="blue">
+    <div id="app">
+      <header>
+        <img src="./assets/logo.svg" alt="Logo da NLW" />
+        <div
+          class="btn-group"
+          role="group"
+          aria-label="Basic mixed styles example"
+        >
+          <!-- <button onclick="themeBlue()" class="btn btn-primary">☾</button>
+          <button onclick="themeYellow()" class="btn btn-warning">☀</button>
+          <button onclick="themeGreen()" class="btn btn-success">⽊</button> -->
+        </div>
+      </header>
+      <main id="cards"></main>
+    </div>
+    <script src="./main.js"></script>
+    <br />
+  </body>
+</html>

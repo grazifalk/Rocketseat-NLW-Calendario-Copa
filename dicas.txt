@@ -1,0 +1,19 @@
+https://source.unsplash.com/random
+
+Programação é para quem gosta de estudar. Se você não gosta de estudar, é porque talvez você ainda não encontrou que você goste de estudar. Quando gostamos de algo, temos curiosidade.
+
+Curiosidade, vontade, persistência
+
+Extensão VScode = prettier
+
+Algoritmo = sequência de passos
+Lógica de Programação = maneira de pensar
+Sintaxe = maneira correta de escrever
+
+Não existe atalhos, mas existe caminho mais eficiente.
+
+Refactor - mudar o código sem mudar o comportamento, para trazer mais clareza e melhoria para o código
+
+
+
+Em animation, o atributo "forwards" fixa no modo final
