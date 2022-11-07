@@ -1,6 +1,6 @@
 # Calendário Copa do Mundo - Rocketseat NLW
 
-![preview](./.github/cover.jpg)
+![preview](./preview.jpg)
 
 > Trilha Explorer
 Projeto construído do evento Next Level Week da Rocketseat.
